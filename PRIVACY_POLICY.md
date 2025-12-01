@@ -38,6 +38,7 @@ We do not sell personal data.
 
 ## Your choices and rights
 - **Access, correction, deletion**: request access to, correction of, or deletion of your personal data.
+- **Delete account**: email hoysolozetados@gmail.com from the address tied to your account with the subject “Delete my ZetaDos account.” Account deletion removes or anonymizes personal data unless retention is required by law.
 - **Consent controls**: enable/disable location access and notifications in your device settings; disconnect integrations (e.g., Strava) at any time.
 - **Portability and objection**: where applicable, request a copy of your data or object to certain processing.
 - **Marketing**: opt out of non-essential communications using in-app settings or provided unsubscribe mechanisms.
@@ -56,4 +57,4 @@ The Services are not directed to children under 16 (or the age required by local
 We may update this policy to reflect changes to our practices or legal requirements. Material changes will be communicated through the app or our website. Continued use after changes become effective means you accept the updated policy.
 
 ## Contact
-For questions or requests about this policy or your data, email **privacy@zetados.app**.
+For questions or requests about this policy or your data, email **hoysolozetados@gmail.com**.
