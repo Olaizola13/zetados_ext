@@ -1,9 +1,10 @@
-# ZetaDos Privacy Policy (Public Mirror)
+# ZetaDos Legal (Public Mirror)
 
-This folder is a public-ready mirror of the privacy policy. Only include non-sensitive docs here.
+This folder is a public-ready mirror of the privacy policy and Terms of Service. Only include non-sensitive docs here.
 
 ## Files
 - PRIVACY_POLICY.md
+- TERMS_OF_SERVICE.md
 - DELETE_ACCOUNT.md
 
 ## How to publish
@@ -16,6 +17,6 @@ This folder is a public-ready mirror of the privacy policy. Only include non-sen
    git push -u origin main
    ```
 2. (Optional) Enable GitHub Pages (Pages > Source: deploy from branch) to serve these docs publicly; update the policy with the hosted URL once you have it.
-3. Link to the published URL from the app/website legal surfaces when available.
+3. Link to the published URL from the app/website legal surfaces when available (privacy, terms, delete-account).
 
 Keep the source of truth in `docs/PRIVACY_POLICY.md` and re-copy when it changes.
