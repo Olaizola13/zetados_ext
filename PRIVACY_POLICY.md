@@ -1,58 +1,55 @@
-# ZetaDos Privacy Policy (Code-Linked)
-Last updated: 2025-12-15
+# ZetaDos Privacy Policy
+Last updated: 2025-12-16
 
-This policy describes how ZetaDos (“we”, “us”, the “Platform”) processes personal data across our mobile apps and APIs. References to features and safeguards map to the code in our backend (`backend/app`) and frontend (`frontend/lib`).
+We wrote this in plain language so you can see what we do with your data and the choices you have.
 
-## 1) Data We Collect
-- **Account & identity:** email, username/display handles, profile details, photos, preferences, and consent settings (`users` collection, `ConsentPreferences`).
-- **Events & routes:** event metadata you submit (titles, descriptions, schedule, sport, visibility, optional `location`, `route.polyline`, waypoints, saved route ids) as defined in `backend/app/models/event_models.py`. Polylines and waypoints are user-provided; we do not curate or verify them.
-- **Location:** exact coordinates are ingested when you set event locations or use discovery. See “Location privacy & obfuscation.”
-- **Reputation & enforcement:** karma votes, weights, reasons, scores, suspensions/blocks (`karma_votes_collection`, `users.karma`, `relationship_filters`).
-- **Notifications & devices:** push tokens, app version, and basic telemetry needed to deliver messages and maintain sessions.
-- **Integrations:** data you authorize from connected services (e.g., Strava) and the tokens required to keep them active.
+## What this policy covers
+This policy explains the information we collect when you use ZetaDos, how we use and share it, and how you can control it.
 
-## 2) How We Use Data
-- Provide and secure the service: account auth, event lifecycle, invitations, confirmations, post-event feedback, and reputation scoring (`karma_service.py`).
-- Show relevant events and routes: match by sport/filters and compute proximity.
-- Notify you: transactional messages (invites, confirmations, reminders) and optional marketing/analytics only if you opt in.
-- Integrity and safety: apply automated reputation and suspension filters to limit abuse (`karma_service.py`, `relationship_filters.py`).
-- Legal: fulfill requests, meet legal obligations, and enforce Terms.
+## Information we collect
+- Account details: name, email, profile photo, preferences, and consent choices.
+- Activity details: events you create or join (title, schedule, sport, optional location), routes you upload, messages you send.
+- Location (when you allow it): GPS data to show nearby events or set meeting points.
+- Device and usage data: app version, device type, and diagnostics to keep things running.
+- Safety signals: reports, feedback, and reputation data to protect the community.
+- Integrations you connect: data you choose to share from partners (for example, fitness services) and the tokens needed to keep them connected.
 
-## 3) Location Privacy & Obfuscation (GDPR transparency)
-- We process your exact location for matching and distance calculations, but only store/display an obfuscated version to other users when `hide_exact_location` is enabled on public events.
-- Obfuscation is deterministic “jitter/fuzzing” in `backend/app/services/location_privacy.py`: exact coordinates are replaced with a seeded offset (50–200m) and a 200m radius hint; the raw `location` is withheld from non-participants. Creators and accepted participants within ~2 hours of start may see exact coordinates; others see only the obfuscated hint.
+## How we use information
+- Run the app: sign-in, invitations, reminders, confirmations, and dispute handling.
+- Make ZetaDos useful: show relevant events, people, and routes based on your settings.
+- Communicate: send transactional messages about events and updates; optional marketing only if you opt in.
+- Safety and integrity: detect fraud/abuse and enforce our rules.
+- Legal: meet legal duties and respond to lawful requests.
 
-## 4) Legal Bases
-- Contract: to deliver core functionality you request (events, messaging, routing, discovery).
-- Consent: location access, optional marketing emails, and analytics toggles (defaults off for non-essential scopes).
-- Legitimate interests: fraud/abuse prevention, service reliability, security, and aggregated analytics, balanced against your rights.
-- Legal obligation: compliance with applicable laws and enforcement of Terms.
+## When we share information
+- Service providers that help us run the app (hosting, messaging, analytics, storage, maps).
+- People you interact with, such as event participants and your approved contacts.
+- Compliance and safety situations when law or safety requires it.
+- We do not sell your personal data.
 
-## 5) Sharing
-- **Processors:** cloud hosting, Firebase services (Auth, Messaging, Analytics/Performance), storage, email/push providers, and map/places APIs (e.g., Google Maps).
-- **Integration partners:** only when you connect them (e.g., Strava tokens/activity data).
-- **Compliance/safety:** to comply with law or protect rights, property, and safety. We do not sell personal data.
+## Location handling
+- Exact location is used only when you turn on location features.
+- If an event hides its exact spot, we show others an approximate pin and radius instead of the exact coordinates.
+- You can turn off location in your device settings or in-app consent controls at any time.
 
-## 6) Retention
-- Data is kept while your account is active and as needed for service, dispute resolution, security, and legal obligations.
-- On deletion requests, we remove or anonymize data unless retention is required by law or for ongoing disputes.
+## Retention and deletion
+- We keep data while your account is active and as needed for operations, security, disputes, and legal requirements.
+- When you delete your account, we remove or anonymize data unless law or ongoing disputes require us to keep specific records.
 
-## 7) Automated Decisions & Reputation
-- Karma scores and suspensions are automated from peer/system votes and relationship filters (`karma_service.py`, `relationship_filters.py`). These decisions can affect visibility, joining events, and account access. See Terms for the waiver related to automated reputation/bans.
+## Your choices and rights
+- Access, correct, delete, or export your data.
+- Control marketing/analytics toggles and revoke location access in device settings.
+- Disconnect integrations whenever you like.
+- Contact us at **hoysoloz2@gmail.com** or use Settings > Data & Privacy in the app to make requests.
 
-## 8) Your Rights & Controls
-- Access, correction, deletion, portability, objection (where applicable).
-- Consent controls: in-app toggles for marketing/analytics, device settings for location/notifications, and disconnect integrations at any time.
-- Exercise rights by emailing **hoysolozetados@gmail.com** or using in-app flows (`/users/me/consent`, data export/delete mailto links).
+## Security
+- We use encryption in transit, access controls, and monitoring. No system is perfect; report issues if you see them.
 
-## 9) Security
-- TLS in transit, scoped access controls, and monitoring. No system is perfectly secure; report issues promptly.
+## Children
+- ZetaDos is for people 16 and older (or the local age of consent). Tell us if a child used the service so we can remove the data.
 
-## 10) Children
-- Not directed to children under 16 (or as required by local law). Contact us to remove data if you believe a child has used the service.
-
-## 11) Changes
-- We will update this policy as code or legal requirements change. Continued use after updates means you accept the revised policy.
+## Changes to this policy
+- If we update this policy, we will post the new version in the app. Continuing to use ZetaDos after changes means you accept the updated policy.
 
 ## Contact
-Questions or requests: **hoysolozetados@gmail.com**.
+Questions or requests: **hoysoloz2@gmail.com**.

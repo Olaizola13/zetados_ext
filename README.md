@@ -3,9 +3,18 @@
 This folder is a public-ready mirror of the privacy policy and Terms of Service. Only include non-sensitive docs here.
 
 ## Files
-- PRIVACY_POLICY.md
-- TERMS_OF_SERVICE.md
+- PRIVACY_POLICY.md (English)
+- PRIVACY_POLICY_es.md (Español)
+- PRIVACY_POLICY_fr.md (Français)
+- PRIVACY_POLICY_de.md (Deutsch)
+- TERMS_OF_SERVICE.md (English)
+- TERMS_OF_SERVICE_es.md (Español)
+- TERMS_OF_SERVICE_fr.md (Français)
+- TERMS_OF_SERVICE_de.md (Deutsch)
 - DELETE_ACCOUNT.md
+
+## App usage
+- The Flutter app loads `PRIVACY_POLICY.md` and `TERMS_OF_SERVICE.md` directly for its compliance screens. Keep the language plain and user-friendly so it reads well in-app and in this public mirror.
 
 ## How to publish
 1. Create a new public repo and copy these files, or run:

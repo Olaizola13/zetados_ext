@@ -1,44 +1,46 @@
-# ZetaDos Terms of Service (Code-Linked)
-Last updated: 2025-12-15
+# ZetaDos Terms of Service
+Last updated: 2025-12-16
 
-These Terms govern your use of ZetaDos (“we”, “us”, the “Platform”). Feature references map to our backend (`backend/app`) and frontend (`frontend/lib`) implementations.
+These terms describe how you can use ZetaDos and what you can expect from us.
 
-## 1) Account & Acceptance
-By creating an account or joining/hosting events, you agree to these Terms. Use is limited to legally eligible individuals; accounts may be suspended under our automated enforcement rules.
+## What ZetaDos does
+- We help people plan, host, and join sports meetups. We connect participants but do not run the physical events.
 
-## 2) Venue & User-Generated Routes
-- Digital record only: The Platform creates and stores the event record (creator email, schedule, optional `location`, `route.polyline`, waypoints) per `backend/app/models/event_models.py`. You, the organizer, create and control the physical activity and any associated hazards.
-- User-generated routes: Route polylines/waypoints are user-provided content; we only validate encoding/point counts. We do not inspect or certify terrain, traffic, legality, weather, or safety. You assume responsibility for route accuracy and on-the-ground risks.
-- No venue control: We do not operate physical venues, do not supervise events, and are not liable for navigation errors, injuries, property damage, or third-party actions.
+## Eligibility and accounts
+- You must be at least 16 or meet your local age requirement.
+- Keep your account info accurate and secure. We may suspend accounts that risk user safety or break these terms.
 
-## 3) Automated Jury & Waiver
-- Automated reputation: Karma and enforcement are calculated automatically from peer/system votes and weights (`backend/app/services/karma_service.py`) and from block/suspension filters (`backend/app/services/relationship_filters.py`). System votes (e.g., no-show penalties) may downrank or restrict access.
-- Finality: You agree that these automated calculations and resulting suspensions/visibility limits are final for platform access decisions.
-- Waiver: You waive claims, damages, or actions related to “lost reputation,” “unfair bans,” or reduced visibility resulting from these automated processes, to the fullest extent permitted by law.
+## Respectful use
+- Share only content you have the right to share.
+- No harassment, fraud, dangerous behavior, or illegal activity.
 
-## 4) Assumption of Risk (Condition to Join)
-- Condition precedent: By calling or triggering the `POST /events/{id}/join` endpoint (`join_event` in `backend/app/routers/event_router.py`), you confirm you are medically and legally fit to participate.
-- You assume all risks inherent in running/cycling (the only sports modeled in `SportEnum`): traffic, weather, road/route conditions, navigation errors, equipment failure, health incidents, and conduct of others. You release us from liability for such risks.
+## Events, safety, and disputes
+- Hosts own their event details and safety decisions. Join only if the plan works for you.
+- Attendance and payment disputes follow the in-app workflow; repeated submissions without new information are not allowed.
+- ZetaDos does not supervise events and is not liable for the conduct of participants or conditions on site.
 
-## 5) Privacy & Location Handling (Summary)
-- We process your exact location for matching and distance calculations. When event creators enable `hide_exact_location` on public events, we show other users only an obfuscated center (50–200m offset) and 200m radius hint; exact coordinates are withheld unless you are the creator or an accepted participant within ~2 hours of start (`location_privacy.py`). See the Privacy Policy for details.
+## Assumption of risk
+- Physical activities involve risk. You are responsible for your health, equipment, and compliance with local laws and venue rules.
 
-## 6) User Content & Conduct
-- You must only post accurate, lawful content and must have rights to any data you upload (including routes and media).
-- No harassment, fraud, abuse, or unsafe behavior. Violations may trigger automated downranking or suspension.
+## Location and privacy summary
+- We use precise location when you enable it to match you with nearby events. When hosts choose to hide exact locations, others see only an approximate area until close to start time. See the Privacy Policy for details.
 
-## 7) Service Changes
-We may modify or discontinue features with notice when practical. Some changes may be required for security or compliance.
+## Content and rights
+- You keep ownership of your content but give us permission to store, display, and share it as needed to operate ZetaDos.
+- Do not post content that infringes others' rights.
 
-## 8) Disclaimers & Limitation of Liability
-- The Services are provided “as is” without warranties. To the maximum extent allowed, we disclaim implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
-- We are not liable for indirect, incidental, special, consequential, or punitive damages, or for lost profits/reputation. Our aggregate liability is limited to the greater of (a) the amount you paid us in the last 12 months or (b) $50, except where prohibited by law.
+## Changes and availability
+- We may add, change, or remove features to keep the service reliable and secure. We will give notice when practical.
 
-## 9) Termination
-We may suspend or terminate accounts for policy violations, abuse, or legal risk. You may stop using the Service at any time.
+## Disclaimers and limits of liability
+- ZetaDos is provided "as is" without warranties.
+- We are not liable for indirect, incidental, or consequential damages. Where allowed, our total liability is limited to the amount you paid us in the last 12 months (or EUR 50, whichever is greater).
 
-## 10) Governing Law
-Subject to mandatory local consumer protections, governing law and venue will follow your local consumer law or, if permitted, the law of the jurisdiction where ZetaDos is established.
+## Ending use
+- You can stop using ZetaDos anytime. We may suspend or terminate accounts that break these terms or create safety/legal risk.
 
-## 11) Contact
-For questions about these Terms: **hoysolozetados@gmail.com**.
+## Governing law
+- Subject to mandatory consumer protections, these terms are governed by Spanish law, and disputes go to the competent courts in Spain unless your local consumer law requires otherwise.
+
+## Contact
+Questions about these terms: **hoysoloz2@gmail.com**.
