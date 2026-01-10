@@ -1,46 +1,31 @@
 # Términos de Servicio de ZetaDos
 Última actualización: 2025-12-16
 
-Estos términos explican cómo puedes usar ZetaDos y qué puedes esperar de nosotros.
+## Alcance MVP
+- Solo están activos los perfiles de Atleta. No hay pagos, suscripciones, anuncios, comercios ni "shop pins".
+- ZetaDos es una herramienta de coordinación; tú eres responsable de organizar y asistir a tus propias actividades.
 
-## Qué hace ZetaDos
-- Ayudamos a planificar, alojar y unirse a encuentros deportivos. Conectamos personas, pero no operamos los eventos físicos.
+## Plataforma pasiva y exención de riesgos
+- ZetaDos no es organizador, entrenador, asegurador ni proveedor médico.
+- El entrenamiento físico es riesgoso y puede causar lesiones o muerte. Eres totalmente responsable de tu salud, equipo y cumplimiento de normas.
+- Al usar ZetaDos renuncias y liberas a ZetaDos y a sus desarrolladores de responsabilidad por daños o lesiones relacionados con eventos en los que participes o crees.
 
-## Elegibilidad y cuentas
-- Debes tener al menos 16 años o cumplir la edad mínima de tu país.
-- Mantén tu información precisa y segura. Podemos suspender cuentas que representen riesgo o incumplan estos términos.
+## Controles automáticos y derecho de apelación
+- Los controles de seguridad usan reputación/karma automatizados y señales de abuso para limitar acceso cuando hay riesgo.
+- Si tu acceso es restringido por estos sistemas, puedes apelar escribiendo al Delegado de Protección de Datos en **hoysoloz2@gmail.com** con evidencias; una persona revisará cada apelación.
 
-## Uso respetuoso
-- Comparte solo contenido que tengas derecho a compartir.
-- Nada de acoso, fraude, comportamiento peligroso o actividad ilegal.
+## Conducta y acciones sobre la cuenta
+- No se permite acoso, fraude ni conductas peligrosas. Podemos restringir o cerrar cuentas cuando haya riesgo para la seguridad.
 
-## Eventos, seguridad y disputas
-- Los anfitriones son responsables de los detalles y la seguridad de su evento. Únete solo si el plan te encaja.
-- Las disputas de asistencia o pagos siguen el flujo en la app; no se pueden reenviar sin información nueva.
-- ZetaDos no supervisa los eventos y no es responsable por la conducta de los participantes ni las condiciones en el lugar.
+## Datos y eliminación
+- Las solicitudes de borrado activan un periodo de gracia de 30 días por prevención de fraude. Después de ese plazo, los datos personales (incluyendo historial de ubicación e identificadores de participación en eventos) se eliminan o anonimizarán de forma irreversible.
+- Consulta la Política de Privacidad para más detalles.
 
-## Asunción de riesgos
-- La actividad física implica riesgos. Eres responsable de tu salud, equipo y cumplimiento de leyes y normas locales.
+## Controles de exportación
+- No puedes usar ZetaDos desde regiones sancionadas (IR, KP, SY, CU, RU, BY) ni si figuras en listas restringidas. El acceso desde esas regiones está bloqueado.
 
-## Resumen de ubicación y privacidad
-- Usamos ubicación precisa cuando la activas para mostrarte eventos cercanos. Si un anfitrión decide ocultar la ubicación exacta, otros verán solo un área aproximada hasta cerca de la hora de inicio. Revisa la Política de Privacidad para más detalles.
-
-## Contenido y derechos
-- Conservas la propiedad de tu contenido, pero nos autorizas a almacenarlo y mostrarlo para operar ZetaDos.
-- No publiques contenido que infrinja derechos de terceros.
-
-## Cambios y disponibilidad
-- Podemos añadir, cambiar o retirar funciones para mantener el servicio seguro y fiable. Avisaremos cuando sea práctico.
-
-## Exenciones y límites de responsabilidad
-- ZetaDos se ofrece “tal cual” sin garantías.
-- No somos responsables de daños indirectos, incidentales o consecuentes. Cuando la ley lo permita, nuestra responsabilidad total se limita a lo que pagaste en los últimos 12 meses (o 50 EUR, lo que sea mayor).
-
-## Finalizar el uso
-- Puedes dejar de usar ZetaDos en cualquier momento. Podemos suspender o cerrar cuentas que incumplan estos términos o generen riesgos de seguridad/legal.
-
-## Ley aplicable
-- Sujeto a la protección obligatoria del consumidor, estos términos se rigen por la ley española y los tribunales competentes de España, salvo que la ley local del consumidor disponga otra cosa.
+## Ley aplicable y jurisdicción
+- Estos términos se rigen por las leyes de España. Cualquier disputa se resolverá en los tribunales de Madrid.
 
 ## Contacto
-Preguntas sobre estos términos: **hoysoloz2@gmail.com**.
+Preguntas o apelaciones: **hoysoloz2@gmail.com**.

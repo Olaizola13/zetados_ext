@@ -1,55 +1,43 @@
 # ZetaDos Privacy Policy
-Last updated: 2025-12-16
+Last updated: 2025-12-17
 
-We wrote this in plain language so you can see what we do with your data and the choices you have.
+## MVP scope and processors
+- Only athlete profiles are enabled. There are no payments, subscriptions, ads, merchants, or shop features, and no payment processors are active.
+- Core processors: Firebase/Google Cloud for hosting/auth/messaging and Google Maps for location services.
 
-## What this policy covers
-This policy explains the information we collect when you use ZetaDos, how we use and share it, and how you can control it.
+## Data we collect (data minimization)
+- Contact info and profile details you provide (name, email, preferences, consent choices).
+- Location data when you enable it for discovery or meetups.
+- Activity statistics and safety signals (events you create/join, invites/chats, feedback/karma).
+- Device identifiers and diagnostic data for security and reliability.
 
-## Information we collect
-- Account details: name, email, profile photo, preferences, and consent choices.
-- Activity details: events you create or join (title, schedule, sport, optional location), routes you upload, messages you send.
-- Location (when you allow it): GPS data to show nearby events or set meeting points.
-- Device and usage data: app version, device type, and diagnostics to keep things running.
-- Safety signals: reports, feedback, and reputation data to protect the community.
-- Integrations you connect: data you choose to share from partners (for example, fitness services) and the tokens needed to keep them connected.
+## Legal bases (GDPR)
+- Contractual necessity: operate your account, invitations, chats, and event coordination.
+- Legitimate interest: fraud prevention, abuse detection, and safety scoring (karma).
+- Consent: precise location, health/fitness data (for example, running/cycling levels or future heart-rate signals), and marketing/analytics toggles. You can withdraw consent at any time in Settings or via device controls.
 
-## How we use information
-- Run the app: sign-in, invitations, reminders, confirmations, and dispute handling.
-- Make ZetaDos useful: show relevant events, people, and routes based on your settings.
-- Communicate: send transactional messages about events and updates; optional marketing only if you opt in.
-- Safety and integrity: detect fraud/abuse and enforce our rules.
-- Legal: meet legal duties and respond to lawful requests.
+## How we use data
+- Operate and secure the product: authentication, invitations, reminders, confirmations, and safety workflows.
+- Communications: transactional notices about events and product updates; no advertising or sale of personal data.
+- Derive safety/reputation scores to protect participants.
 
-## When we share information
-- Service providers that help us run the app (hosting, messaging, analytics, storage, maps).
-- People you interact with, such as event participants and your approved contacts.
-- Compliance and safety situations when law or safety requires it.
-- We do not sell your personal data.
+## Sharing
+- Service providers supporting hosting, messaging, analytics, and maps.
+- People you interact with (for example, event participants) based on your actions.
+- Legal/safety disclosures when required. We do not sell personal data.
 
-## Location handling
-- Exact location is used only when you turn on location features.
-- If an event hides its exact spot, we show others an approximate pin and radius instead of the exact coordinates.
-- You can turn off location in your device settings or in-app consent controls at any time.
+## Retention and 30-day safety hold
+- Data is retained while your account is active.
+- Deletion requests trigger a 30-day safety hold to investigate fraud/safety issues; data is not publicly accessible during this hold.
+- After the hold, personal data (including location history and event participation identifiers) is permanently deleted or irreversibly anonymized. Backups age out through normal rotation.
 
-## Retention and deletion
-- We keep data while your account is active and as needed for operations, security, disputes, and legal requirements.
-- When you delete your account, we remove or anonymize data unless law or ongoing disputes require us to keep specific records.
+## Automated decisions and your right to appeal
+- Safety controls rely on automated reputation/karma and abuse signals. You can appeal significant automated decisions (such as bans or access restrictions) by emailing the Data Protection Officer at **hoysoloz2@gmail.com** with context; a human review is guaranteed.
 
 ## Your choices and rights
 - Access, correct, delete, or export your data.
-- Control marketing/analytics toggles and revoke location access in device settings.
-- Disconnect integrations whenever you like.
-- Contact us at **hoysoloz2@gmail.com** or use Settings > Data & Privacy in the app to make requests.
+- Control marketing/analytics toggles, revoke location access, and withdraw consent for health/fitness processing at any time.
+- Contact the DPO at **hoysoloz2@gmail.com** for privacy requests or appeals.
 
-## Security
-- We use encryption in transit, access controls, and monitoring. No system is perfect; report issues if you see them.
-
-## Children
-- ZetaDos is for people 16 and older (or the local age of consent). Tell us if a child used the service so we can remove the data.
-
-## Changes to this policy
-- If we update this policy, we will post the new version in the app. Continuing to use ZetaDos after changes means you accept the updated policy.
-
-## Contact
-Questions or requests: **hoysoloz2@gmail.com**.
+## Export control notice
+- By using ZetaDos, you confirm you are not located in a sanctioned jurisdiction (including IR, KP, SY, CU, RU, BY) and are not on a denied parties list. Access from sanctioned regions is blocked.

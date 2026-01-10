@@ -1,55 +1,37 @@
-# Politique de confidentialité ZetaDos
+# Politique de Confidentialité de ZetaDos
 Dernière mise à jour : 2025-12-16
 
-Nous écrivons en clair pour que vous sachiez ce que nous faisons avec vos données et vos choix.
+## Portée MVP et prestataires
+- Seuls les profils Athlète sont activés. Aucun paiement, abonnement, publicité, commerce ou « shop pins » ; aucun prestataire de paiement actif.
+- Nous utilisons Firebase/Google Cloud pour l’hébergement/l’authentification/la messagerie et Google Maps pour les services de localisation.
 
-## Ce que couvre cette politique
-Elle explique quelles informations nous collectons quand vous utilisez ZetaDos, comment nous les utilisons et partageons, et comment vous les contrôlez.
+## Données que nous collectons
+- Données de compte (nom, email, profil, préférences, choix de consentement).
+- Données d’activité (événements créés ou rejoints, messages envoyés, signaux de feedback/karma pour la sécurité).
+- Données liées à la condition physique et à la santé (niveaux et « vibes » running/cyclisme) fournies pour améliorer le matching ; traitées uniquement avec votre consentement explicite.
+- Données de localisation lorsque vous les activez pour la découverte ou les rendez-vous ; vous contrôlez ce partage sur l’appareil et dans l’application.
+- Jetons d’authentification et identifiants d’appareil pour maintenir les sessions ; les refresh tokens sont stockés dans le stockage sécurisé de l’appareil. Aucun mot de passe en clair n’est conservé.
+- Diagnostics appareil et usage pour maintenir la fiabilité du service.
 
-## Informations que nous collectons
-- Détails du compte : nom, e-mail, photo de profil, préférences et choix de consentement.
-- Détails d’activité : événements créés ou rejoints (titre, horaire, sport, lieu optionnel), itinéraires ajoutés, messages envoyés.
-- Localisation (si vous l’autorisez) : données GPS pour afficher des événements proches ou fixer un point de rendez-vous.
-- Données d’appareil et d’usage : version de l’app, type d’appareil, diagnostics pour assurer le bon fonctionnement.
-- Signaux de sécurité : signalements, retours et réputation pour protéger la communauté.
-- Intégrations connectées : données que vous choisissez de partager depuis des services tiers et les jetons nécessaires pour les maintenir.
+## Comment nous utilisons les données
+- Exploiter le produit : authentification, invitations, rappels, confirmations et flux de sécurité.
+- Sécurité et intégrité : systèmes automatisés pour détecter les abus et protéger les participants.
+- Communications : notifications transactionnelles ; pas de publicité.
+- Le matching sportif utilise vos niveaux de running/cyclisme uniquement lorsque vous avez donné un consentement explicite.
 
-## Comment nous utilisons les informations
-- Faire fonctionner l’app : connexion, invitations, rappels, confirmations et gestion des litiges.
-- Rendre ZetaDos utile : proposer des événements, personnes et itinéraires adaptés à vos paramètres.
-- Communiquer avec vous : messages transactionnels sur les événements et mises à jour ; marketing optionnel uniquement si vous l’acceptez.
-- Sécurité et intégrité : détecter fraude/abus et appliquer les règles.
-- Obligations légales : répondre aux demandes légitimes et respecter la loi.
+## Décisions automatisées et droit d’appel
+- Les contrôles de sécurité utilisent des signaux automatisés de réputation/karma et de détection d’abus. Vous pouvez contester des décisions importantes (par exemple des blocages) en écrivant au DPO à **hoysoloz2@gmail.com** avec du contexte ; un examen humain est garanti.
 
-## Quand nous partageons les informations
-- Prestataires qui nous aident à opérer (hébergement, messagerie, analytique, stockage, cartes).
-- Personnes avec qui vous interagissez, comme les participants à vos événements et vos contacts approuvés.
-- Situations de conformité ou de sécurité lorsque la loi ou la sûreté l’impose.
-- Nous ne vendons pas vos données personnelles.
-
-## Gestion de la localisation
-- La localisation précise n’est utilisée que lorsque vous activez des fonctions qui en ont besoin.
-- Si un événement masque son lieu exact, les autres voient une zone approximative jusqu’à l’approche de l’heure de début.
-- Vous pouvez désactiver la localisation dans les réglages de l’appareil ou via les contrôles de consentement dans l’app.
+## Partage
+- Prestataires qui nous aident à faire fonctionner l’application (hébergement, messagerie, analytique, cartes).
+- Personnes avec lesquelles vous interagissez selon vos actions (participants aux événements, etc.).
+- Divulgations légales/sécurité lorsque requis. Nous ne vendons pas de données personnelles.
 
 ## Conservation et suppression
-- Nous conservons les données tant que votre compte est actif et selon les besoins d’opération, de sécurité, de litiges ou légaux.
-- Si vous supprimez votre compte, nous effaçons ou anonymisons les données sauf si la loi ou un litige en cours impose d’en garder certaines.
+- Les données sont conservées tant que votre compte est actif. Après une demande de suppression, les données sont mises en quarantaine pendant 30 jours, puis les données personnelles (y compris l’historique de localisation et les identifiants de participation aux événements) sont supprimées ou anonymisées. Les sauvegardes suivent leur cycle normal.
 
 ## Vos choix et droits
 - Accéder, corriger, supprimer ou exporter vos données.
-- Contrôler les réglages marketing/analytique et retirer l’accès à la localisation depuis l’appareil.
-- Déconnecter les intégrations quand vous le souhaitez.
-- Contactez-nous à **hoysoloz2@gmail.com** ou via Paramètres > Données et confidentialité dans l’app pour vos demandes.
-
-## Sécurité
-- Chiffrement en transit, contrôles d’accès et supervision. Aucun système n’est parfait ; prévenez-nous en cas de problème.
-
-## Mineurs
-- ZetaDos s’adresse aux personnes de 16 ans et plus (ou à l’âge légal local). Prévenez-nous si un mineur a utilisé le service afin de supprimer ses données.
-
-## Modifications de cette politique
-- Si nous la mettons à jour, nous publierons la nouvelle version dans l’app. L’usage continu de ZetaDos vaut acceptation de la version à jour.
-
-## Contact
-Questions ou demandes : **hoysoloz2@gmail.com**.
+- Contrôler les réglages marketing/analytique et révoquer l’accès à la localisation à tout moment.
+- Gérer le consentement aux données de santé dans les paramètres ; si vous le retirez, nous cessons de traiter vos niveaux de running/cyclisme.
+- Contacter le DPO à **hoysoloz2@gmail.com** pour toute demande ou appel.
