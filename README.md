@@ -15,6 +15,7 @@ This folder is a public-ready mirror of the privacy policy and Terms of Service.
 - SUPPORT.md
 - MARKETING.md
 - COPYRIGHT
+- LICENSE
 
 ## App usage
 - The Flutter app loads `PRIVACY_POLICY.md` and `TERMS_OF_SERVICE.md` directly for its compliance screens. Keep the language plain and user-friendly so it reads well in-app and in this public mirror.
