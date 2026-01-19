@@ -2,7 +2,7 @@
 
 Use this page to request deletion of your ZetaDos account and related personal data.
 
-- Request deletion in Settings > Data & Privacy or email **hoysoloz2@gmail.com** with subject "Delete my ZetaDos account."
+- Request deletion in Settings > Data & Privacy or email **hoysolozonados@gmail.com** with subject "Delete my ZetaDos account."
 
 What to include:
 - Email address tied to your account

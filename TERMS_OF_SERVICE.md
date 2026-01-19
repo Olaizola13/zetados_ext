@@ -21,7 +21,7 @@ Last updated: 2025-12-17
 
 ## Automated safety controls and right to appeal
 - Safety controls rely on automated reputation/karma signals and abuse detection to limit access when risk is detected.
-- If your access is restricted by these automated systems, you may appeal by emailing **hoysoloz2@gmail.com** with supporting evidence; every appeal receives human review.
+- If your access is restricted by these automated systems, you may appeal by emailing **hoysolozonados@gmail.com** with supporting evidence; every appeal receives human review.
 
 ## Data handling and 30-day safety hold
 - Account deletion requests trigger a 30-day retention window to protect community safety and preserve evidence. Data is not publicly accessible during this hold.
@@ -37,4 +37,4 @@ Last updated: 2025-12-17
 - These terms are governed by the laws of Spain, with exclusive venue and jurisdiction in the courts of Madrid, Spain.
 
 ## Contact
-Questions or appeals: **hoysoloz2@gmail.com**.
+Questions or appeals: **hoysolozonados@gmail.com**.

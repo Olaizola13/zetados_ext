@@ -12,6 +12,9 @@ This folder is a public-ready mirror of the privacy policy and Terms of Service.
 - TERMS_OF_SERVICE_fr.md (Français)
 - TERMS_OF_SERVICE_de.md (Deutsch)
 - DELETE_ACCOUNT.md
+- SUPPORT.md
+- MARKETING.md
+- COPYRIGHT
 
 ## App usage
 - The Flutter app loads `PRIVACY_POLICY.md` and `TERMS_OF_SERVICE.md` directly for its compliance screens. Keep the language plain and user-friendly so it reads well in-app and in this public mirror.

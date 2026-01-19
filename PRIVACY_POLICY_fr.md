@@ -20,7 +20,7 @@ Dernière mise à jour : 2025-12-16
 - Le matching sportif utilise vos niveaux de running/cyclisme uniquement lorsque vous avez donné un consentement explicite.
 
 ## Décisions automatisées et droit d’appel
-- Les contrôles de sécurité utilisent des signaux automatisés de réputation/karma et de détection d’abus. Vous pouvez contester des décisions importantes (par exemple des blocages) en écrivant au DPO à **hoysoloz2@gmail.com** avec du contexte ; un examen humain est garanti.
+- Les contrôles de sécurité utilisent des signaux automatisés de réputation/karma et de détection d’abus. Vous pouvez contester des décisions importantes (par exemple des blocages) en écrivant au DPO à **hoysolozonados@gmail.com** avec du contexte ; un examen humain est garanti.
 
 ## Partage
 - Prestataires qui nous aident à faire fonctionner l’application (hébergement, messagerie, analytique, cartes).
@@ -34,4 +34,4 @@ Dernière mise à jour : 2025-12-16
 - Accéder, corriger, supprimer ou exporter vos données.
 - Contrôler les réglages marketing/analytique et révoquer l’accès à la localisation à tout moment.
 - Gérer le consentement aux données de santé dans les paramètres ; si vous le retirez, nous cessons de traiter vos niveaux de running/cyclisme.
-- Contacter le DPO à **hoysoloz2@gmail.com** pour toute demande ou appel.
+- Contacter le DPO à **hoysolozonados@gmail.com** pour toute demande ou appel.
