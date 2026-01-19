@@ -20,6 +20,12 @@ This folder is a public-ready mirror of the privacy policy and Terms of Service.
 ## App usage
 - The Flutter app loads `PRIVACY_POLICY.md` and `TERMS_OF_SERVICE.md` directly for its compliance screens. Keep the language plain and user-friendly so it reads well in-app and in this public mirror.
 
+## Sync
+- Edit files in `privacy_policy_public/` for the public/legal docs.
+- Edit the root-level `SUPPORT.md`, `MARKETING.md`, `COPYRIGHT`, and `LICENSE` for those entries.
+- Run `python scripts/sync_legal_mirror.py` or `make sync-legal` to update `frontend/assets/privacy_policy_public` and `assets/legal`.
+- If you change policy content in `docs/PRIVACY_POLICY.md` or `docs/DELETE_ACCOUNT.md`, port the change here before syncing.
+
 ## How to publish
 1. Create a new public repo and copy these files, or run:
    ```bash
@@ -31,5 +37,3 @@ This folder is a public-ready mirror of the privacy policy and Terms of Service.
    ```
 2. (Optional) Enable GitHub Pages (Pages > Source: deploy from branch) to serve these docs publicly; update the policy with the hosted URL once you have it.
 3. Link to the published URL from the app/website legal surfaces when available (privacy, terms, delete-account).
-
-Keep the source of truth in `docs/PRIVACY_POLICY.md` and re-copy when it changes.
