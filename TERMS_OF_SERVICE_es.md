@@ -1,5 +1,5 @@
 # Términos de Servicio de ZetaDos
-Última actualización: 2025-12-16
+Última actualización: 2026-01-21
 
 ## Alcance MVP
 - Solo están activos los perfiles de Atleta. No hay pagos, suscripciones, anuncios, comercios ni "shop pins".

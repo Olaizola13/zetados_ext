@@ -1,5 +1,5 @@
 # ZetaDos Terms of Service
-Last updated: 2025-12-17
+Last updated: 2026-01-21
 
 ## Preamble and scope
 - ZetaDos is a coordination tool, not an event organizer. We provide a platform for athletes to connect, but we do not supervise or control any activity.

@@ -1,5 +1,5 @@
 # Conditions d’Utilisation de ZetaDos
-Dernière mise à jour : 2025-12-16
+Dernière mise à jour : 2026-01-21
 
 ## Portée MVP
 - Seuls les profils Athlète sont activés. Aucun paiement, abonnement, publicité, commerce ou « shop pins ».

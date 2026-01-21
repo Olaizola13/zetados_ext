@@ -1,5 +1,5 @@
 # ZetaDos Nutzungsbedingungen
-Letzte Aktualisierung: 2025-12-16
+Letzte Aktualisierung: 2026-01-21
 
 ## MVP-Umfang
 - Es sind nur Athleten-Profile aktiv. Keine Zahlungen, Abos, Werbung, Händler oder Shop-Pins.
