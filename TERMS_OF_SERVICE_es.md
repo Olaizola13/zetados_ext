@@ -12,7 +12,7 @@
 
 ## Controles automáticos y derecho de apelación
 - Los controles de seguridad usan reputación/karma automatizados y señales de abuso para limitar acceso cuando hay riesgo.
-- Si tu acceso es restringido por estos sistemas, puedes apelar escribiendo al Delegado de Protección de Datos en **hoysolozonados@gmail.com** con evidencias; una persona revisará cada apelación.
+- Si tu acceso es restringido por estos sistemas, puedes apelar escribiendo al Delegado de Protección de Datos en **hoysolozona2@gmail.com** con evidencias; una persona revisará cada apelación.
 
 ## Conducta y acciones sobre la cuenta
 - No se permite acoso, fraude ni conductas peligrosas. Podemos restringir o cerrar cuentas cuando haya riesgo para la seguridad.
@@ -28,4 +28,4 @@
 - Estos términos se rigen por las leyes de España. Cualquier disputa se resolverá en los tribunales de Madrid.
 
 ## Contacto
-Preguntas o apelaciones: **hoysolozonados@gmail.com**.
+Preguntas o apelaciones: **hoysolozona2@gmail.com**.

@@ -32,12 +32,12 @@ Last updated: 2025-12-17
 - After the hold, personal data (including location history and event participation identifiers) is permanently deleted or irreversibly anonymized. Backups age out through normal rotation.
 
 ## Automated decisions and your right to appeal
-- Safety controls rely on automated reputation/karma and abuse signals. You can appeal significant automated decisions (such as bans or access restrictions) by emailing the Data Protection Officer at **hoysolozonados@gmail.com** with context; a human review is guaranteed.
+- Safety controls rely on automated reputation/karma and abuse signals. You can appeal significant automated decisions (such as bans or access restrictions) by emailing the Data Protection Officer at **hoysolozona2@gmail.com** with context; a human review is guaranteed.
 
 ## Your choices and rights
 - Access, correct, delete, or export your data.
 - Control marketing/analytics toggles, revoke location access, and withdraw consent for health/fitness processing at any time.
-- Contact the DPO at **hoysolozonados@gmail.com** for privacy requests or appeals.
+- Contact the DPO at **hoysolozona2@gmail.com** for privacy requests or appeals.
 
 ## Export control notice
 - By using ZetaDos, you confirm you are not located in a sanctioned jurisdiction (including IR, KP, SY, CU, RU, BY) and are not on a denied parties list. Access from sanctioned regions is blocked.

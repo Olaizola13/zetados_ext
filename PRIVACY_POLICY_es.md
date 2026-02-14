@@ -20,7 +20,7 @@
 - Emparejamientos deportivos usan tus niveles de running/ciclismo solo cuando has otorgado consentimiento explícito.
 
 ## Decisiones automatizadas y derecho de apelación
-- Los controles de seguridad usan reputación/karma automatizados y señales de abuso. Puedes apelar decisiones importantes (como bloqueos) escribiendo al Delegado de Protección de Datos en **hoysolozonados@gmail.com** con contexto; siempre habrá revisión humana.
+- Los controles de seguridad usan reputación/karma automatizados y señales de abuso. Puedes apelar decisiones importantes (como bloqueos) escribiendo al Delegado de Protección de Datos en **hoysolozona2@gmail.com** con contexto; siempre habrá revisión humana.
 
 ## Compartir
 - Proveedores que ayudan a operar la app (hosting, mensajería, analítica, mapas).
@@ -34,4 +34,4 @@
 - Acceder, corregir, eliminar o exportar tus datos.
 - Controlar marketing/analítica y revocar acceso a ubicación en cualquier momento.
 - Gestionar el consentimiento para datos de salud en Configuración; si lo revocas, dejamos de procesar tus niveles de running/ciclismo.
-- Contacta al DPD en **hoysolozonados@gmail.com** para solicitudes o apelaciones.
+- Contacta al DPD en **hoysolozona2@gmail.com** para solicitudes o apelaciones.

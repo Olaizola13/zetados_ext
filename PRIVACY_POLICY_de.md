@@ -20,7 +20,7 @@ Letzte Aktualisierung: 2025-12-16
 - Fitness-Matching nur, wenn du ausdrücklich in die Verarbeitung deiner Running/Cycling-Level eingewilligt hast.
 
 ## Automatisierte Entscheidungen und Einspruch
-- Sicherheitskontrollen nutzen automatisierte Reputation/Karma und Missbrauchssignale. Du kannst wichtige Entscheidungen (z. B. Sperren) anfechten, indem du dem Datenschutzbeauftragten unter **hoysolozonados@gmail.com** Kontext sendest; eine manuelle Prüfung ist garantiert.
+- Sicherheitskontrollen nutzen automatisierte Reputation/Karma und Missbrauchssignale. Du kannst wichtige Entscheidungen (z. B. Sperren) anfechten, indem du dem Datenschutzbeauftragten unter **hoysolozona2@gmail.com** Kontext sendest; eine manuelle Prüfung ist garantiert.
 
 ## Weitergabe
 - Dienstleister, die den Betrieb unterstützen (Hosting, Messaging, Analytik, Karten).
@@ -34,4 +34,4 @@ Letzte Aktualisierung: 2025-12-16
 - Zugriff, Berichtigung, Löschung oder Export deiner Daten.
 - Steuerung von Marketing/Analytik und Widerruf des Standortzugriffs jederzeit.
 - Verwaltung der Einwilligung zu Gesundheitsdaten in den Einstellungen; bei Widerruf verarbeiten wir deine Running/Cycling-Level nicht weiter.
-- Kontakt zum DSB unter **hoysolozonados@gmail.com** für Anfragen oder Einsprüche.
+- Kontakt zum DSB unter **hoysolozona2@gmail.com** für Anfragen oder Einsprüche.

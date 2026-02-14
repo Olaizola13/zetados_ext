@@ -12,7 +12,7 @@ Dernière mise à jour : 2026-01-21
 
 ## Contrôles automatisés et droit d’appel
 - Les contrôles de sécurité utilisent des signaux automatisés de réputation/karma et de détection d’abus pour limiter l’accès en cas de risque.
-- Si votre accès est restreint par ces systèmes, vous pouvez faire appel auprès du DPO à **hoysolozonados@gmail.com** avec des éléments justificatifs ; chaque appel est examiné par un humain.
+- Si votre accès est restreint par ces systèmes, vous pouvez faire appel auprès du DPO à **hoysolozona2@gmail.com** avec des éléments justificatifs ; chaque appel est examiné par un humain.
 
 ## Conduite et actions sur le compte
 - Pas de harcèlement, fraude ou comportement dangereux. Les comptes peuvent être restreints ou fermés lorsqu’un risque pour la sécurité est détecté.
@@ -28,4 +28,4 @@ Dernière mise à jour : 2026-01-21
 - Les présentes conditions sont régies par le droit espagnol. Tout litige sera tranché par les tribunaux de Madrid.
 
 ## Contact
-Questions ou appels : **hoysolozonados@gmail.com**.
+Questions ou appels : **hoysolozona2@gmail.com**.

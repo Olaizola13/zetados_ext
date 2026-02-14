@@ -1,6 +1,6 @@
 # Support
 
-For help with ZetaDos, email hoysolozonados@gmail.com.
+For help with ZetaDos, email hoysolozona2@gmail.com.
 
 Please include:
 - the email tied to your account

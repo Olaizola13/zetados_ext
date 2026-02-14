@@ -12,7 +12,7 @@ Letzte Aktualisierung: 2026-01-21
 
 ## Automatische Kontrollen und Einspruchsrecht
 - Die Sicherheitskontrollen nutzen automatisierte Reputation/Karma und Missbrauchssignale, um den Zugriff bei Risiko zu begrenzen.
-- Wenn dein Zugriff durch diese Systeme eingeschränkt wird, kannst du Einspruch beim Datenschutzbeauftragten unter **hoysolozonados@gmail.com** einlegen; jede Beschwerde wird manuell geprüft.
+- Wenn dein Zugriff durch diese Systeme eingeschränkt wird, kannst du Einspruch beim Datenschutzbeauftragten unter **hoysolozona2@gmail.com** einlegen; jede Beschwerde wird manuell geprüft.
 
 ## Verhalten und Kontomaßnahmen
 - Kein Mobbing, Betrug oder gefährliches Verhalten. Konten können eingeschränkt oder geschlossen werden, wenn ein Sicherheitsrisiko besteht.
@@ -28,4 +28,4 @@ Letzte Aktualisierung: 2026-01-21
 - Diese Bedingungen unterliegen dem Recht Spaniens. Alle Streitigkeiten werden vor den Gerichten in Madrid beigelegt.
 
 ## Kontakt
-Fragen oder Einsprüche: **hoysolozonados@gmail.com**.
+Fragen oder Einsprüche: **hoysolozona2@gmail.com**.
